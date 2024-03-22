@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on **Multi - Sports CRM -A Project from Khazakistan**
+- 🔭 I’m currently working on **"Multi - Sports CRM" - A Project from Khazakistan**
 - 🌱 I’m currently learning **Cyber Security**
 - 👯 I’m looking to collaborate on **ReactJs Project from Khazakistan.**
 - 🤔 I’m looking for help with **Updation**
