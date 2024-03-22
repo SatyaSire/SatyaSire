@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on **ReactJs Project from Khazakistan.**
 - 🤔 I’m looking for help with **Updation**
 - 💬 Ask me about **Tech & Teach**
-- 📫 How to reach me: *satya.vishwa01@gmail.com*
+- 📫 How to reach me: *+91 - 7045713379 / satya.vishwa01@gmail.com*
 - 😄 Pronouns: **Sir**
 - ⚡ Fun fact: *I really hate Coding 😄*
 
